@@ -1,0 +1,98 @@
+/* CSS Document */
+.a {
+	font-weight: bold;
+	position: fixed;
+	text-align: center;
+}
+.b{
+	text-transform: uppercase; ;
+}
+#d {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 633px;
+	top: 219px;
+}
+#c {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 1019px;
+	top: 38px;
+}
+#f {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 1094px;
+	top: 313px;
+}
+
+#g {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 1022px;
+	top: 34px;
+}
+#h {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 368px;
+	top: 344px;
+}
+#e {
+	padding: 5px;
+	background-color: #888586;
+	position: absolute;
+	left: 671px;
+	top: 313px;
+	width: 140px;
+	height: 41px;
+}
+#i {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 632px;
+	top: 415px;
+}
+#h {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 212px;
+	top: 314px;
+}
+#j {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 497px;
+	top: 542px;
+}
+#k {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 998px;
+	top: 353px;
+	width: 137px;
+	height: 27px;
+}
+#l {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 427px;
+	top: 314px;
+}
+#n {
+	padding: 5px;
+	background-color: #FF0004;
+	position: absolute;
+	left: 881px;
+	top: 312px;
+}

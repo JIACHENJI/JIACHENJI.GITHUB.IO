@@ -1,0 +1,45 @@
+body { 
+	padding: 100px;
+}
+.box {
+	border: 5px inset #797979;
+	background-color: #5C5B5B;
+	font-style: italic;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Gill Sans";
+	padding: 5px;
+	background-color: crimson;
+	position: absolute;
+	left: 552px;
+	top: 108px;
+	width: 145px;
+}
+.box2 {
+	border: 5px inset #797979;
+	background-color: #5C5B5B;
+	font-style: italic;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Gill Sans";
+	padding: 5px;
+	background-color: crimson;
+	position: absolute;
+	left: 565px;
+	top: 329px;
+	width: 120px;
+}
+.box3 {
+	border: 5px inset #797979;
+	background-color: #5C5B5B;
+	font-style: italic;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Gill Sans";
+	padding: 5px;
+	background-color: crimson;
+	position: absolute;
+	left: 576px;
+	top: 511px;
+	width: 102px;
+}

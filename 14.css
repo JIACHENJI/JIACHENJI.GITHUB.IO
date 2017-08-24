@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+.box1 {
+    background-color: lightgrey;
+    width: 1500px;
+    border: 20px solid  #D50003;
+    padding: 25px;
+    margin: 30px;
+	text-align: center;
+	font-family: "Gill Sans";
+	 position: relative;
+	animation-name: example;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-delay: ;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@-webkit-keyframes example {
+    0%   { left:0px; top:0px;}
+    100%  { left:200px; top:0px;}
+}
+.b {
+    background-color: lightgrey;
+    width: 1500px;
+    border: 20px solid #FC2C2F;
+    padding: 25px;
+    margin: 30px;
+	text-align: center;
+	font-family: "Gill Sans";
+	 position: relative;
+	animation-name: example;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@-webkit-keyframes example {
+    0%   { left:0px; top:0px;}
+    100%  { left:200px; top:0px;}
+}
+.c {
+    background-color: lightgrey;
+    width: 1500px;
+    border: 20px solid #F96668;
+    padding: 25px;
+    margin: 30px;
+	text-align: center;
+	font-family: "Gill Sans";
+ position: relative;
+	animation-name: example;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@-webkit-keyframes example {
+    0%   { left:0px; top:0px;}
+    100%  { left:200px; top:0px;}
+}
+.d {
+    background-color: lightgrey;
+    width: 1500px;
+    border: 20px solid #F39D9E;
+    padding: 25px;
+    margin: 30px;
+	text-align: center;
+	font-family: "Gill Sans";
+ position: relative;
+	animation-name: example;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@-webkit-keyframes example {
+    0%   { left:0px; top:0px;}
+    100%  { left:200px; top:0px;}
+}

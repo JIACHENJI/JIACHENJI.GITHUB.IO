@@ -1,0 +1,13 @@
+/* CSS Document */
+p {border: 5px double;
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+	
+}
+p{
+    height: 40px;
+    width: 100%;
+
+}

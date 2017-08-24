@@ -1,0 +1,31 @@
+/* CSS Document */
+
+.a {
+	border: 5px inset #797979;
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    animation-name: example; 
+    animation-duration: 3s; 
+	text-align: center;
+	font-style: italic;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Gill Sans";
+		animation-direction: alternate;
+	animation-iteration-count: infinite;
+	margin-left: 550px;
+	margin-top: 350px;
+	color: aliceblue;
+}
+
+@-webkit-keyframes example {
+    from {background-color: red;}
+    to {background-color:aqua;}
+}
+
+@keyframes example {
+    from {background-color: red;}
+    to {background-color:aqua;}
+}
+
